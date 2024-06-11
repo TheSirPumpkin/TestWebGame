@@ -1,11 +1,11 @@
 {
-    "name": "Tower Clash",
-    "short_name": "Tower Clash",
+    "name": "Island Clash",
+    "short_name": "Island Clash",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "test",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
